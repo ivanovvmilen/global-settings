@@ -1,4 +1,4 @@
 object_type: global_settings
 overrides:
-    "query.planning.semiAdditive.defaultAggregationWhenOutOfScope": false
+    "query.planning.semiAdditive.defaultAggregationWhenOutOfScope": true
 
